@@ -1,5 +1,4 @@
-## Hi there 👋
-### Olá, eu sou o [Fabrício]! 👋
+### Olá, eu sou o Fabrício! 👋
 
 Sou um estudante de **Segurança da Informação** apaixonado por transformar dados em inteligência e proteção. Atualmente em transição de carreira, focando na união entre **Análise de Dados** e **Cibersegurança**.
 
