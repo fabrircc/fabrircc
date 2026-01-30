@@ -3,9 +3,9 @@
 Sou um estudante de **Segurança da Informação** apaixonado por transformar dados em inteligência e proteção. Atualmente em transição de carreira, focando na união entre **Análise de Dados** e **Cibersegurança**.
 
 - 🔭 Atualmente trabalhando em projetos de **Dashboards Executivos** e ferramentas de **Automação**.
-- 🌱 Estudando profundamente **Power BI, Python (Pandas/Automação) e Pentest**.
+- 🌱 Estudando profundamente **Power BI, SQL, Python (Pandas/Automação) e Pentest**.
 - 📍 Localização: **Uberlândia, MG**.
-- 💡 Interesse: Criação de ferramentas de segurança e visualização de dados para tomada de decisão.
+- 💡 Interesse: Criação de automações e visualização de dados para tomada de decisão.
 
 ---
 
